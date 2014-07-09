@@ -1,0 +1,22 @@
+Forward:  30.961674
+L Right:  2.655052
+M Right:  0.898955
+H Right:  0.574913
+Backward: 0.052265
+H Left:   0.547038
+M Left:   1.181185
+L Left:   2.968641
+Cannibalism: 1.000000
+
+RecursiveMutations: 0
+Generations: 110000
+Bugs: 287
+
+Minutes: 2.22
+Hours: 0.04
+
+Generations/min: 	49624.06
+Generations/hour: 	2977443.61
+
+Start Time: Wed Jul  9 13:18:59 2014
+End Time:   Wed Jul  9 13:21:12 2014
